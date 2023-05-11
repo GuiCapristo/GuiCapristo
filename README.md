@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Guilherme Capristo 😁
+## Bem-vindo(a) ao perfil do GuiCapristo 😁
 
  <div>
    <a href="https://github.com/GuiCapristo">
