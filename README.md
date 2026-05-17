@@ -83,14 +83,14 @@ Focado em <b>Cybersecurity</b>, com interesse em <b>Blue Team</b>, <b>SOC</b> e 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-one-nu-81.vercel.app/api?username=GuiCapristo&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
+    src="https://github-readme-stats-one-nu-81.vercel.app/api?username=GuiCapristo&show_icons=true&theme=synthwave&locale=pt-br&include_all_commits=true&cache_seconds=86400"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-one-nu-81.vercel.app/api/top-langs/?username=GuiCapristo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+      src="https://github-readme-stats-one-nu-81.vercel.app/api/top-langs/?username=GuiCapristo&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 </p>
